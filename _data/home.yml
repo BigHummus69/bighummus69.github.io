@@ -11,12 +11,12 @@ navbar_entries:
 project_entries:
   - title: 1v1
     url: IvI
-    desc: THe favorite all time broswer FPS!
+    desc: The favorite all time broswer FPS!
     highlight: POPULAR
 
-  - title: /1/
-    url: 1game
-    desc: A version of 2048.
+  - title: 2048-multitask
+    url: actual/2048-multitask
+    desc: A harder version of 2048, now with more tiles!
 
   - title: /2048/
     url: actual/2048/index.html
