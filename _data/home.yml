@@ -19,7 +19,7 @@ project_entries:
     desc: A version of 2048.
 
   - title: /2048/
-    url: actual/2048-multitask/index.html
+    url: actual/2048/index.html
     desc: The classic 2048 game.
     
   - title: Project 4
