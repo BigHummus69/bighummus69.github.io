@@ -22,14 +22,14 @@ project_entries:
     url: actual/2048/index.html
     desc: The classic 2048 game.
     
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
+  - title: Basketball Stars
+    url: /actual/basketball-stars/index.html
+    desc: One of the most BALLIN games here. (help me)
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-
+  - title: Bitlife
+    url: actual/bitlife/index.html
+    desc: Live you best (or worst) life in Bitlife!
+    
   - title: Project 6
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
