@@ -12,15 +12,16 @@ project_entries:
   - title: 1v1
     url: IvI
     desc: THe favorite all time broswer FPS!
+    highlight: POPULAR
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: /1/
+    url: /1/
+    desc: A version of 2048.
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
-
+  - title: /2048/
+    url: /2048/
+    desc: The classic 2048 game.
+    
   - title: Project 4
     url: overview-post
     desc: This project uses highlight markup, configured in _data/home.yml
