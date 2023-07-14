@@ -35,25 +35,25 @@ project_entries:
     desc: It also has a scalable vertical list (in case you need it)
 
   - title: Test
-    url: false
+    url: falsepage
     desc: Will this work?
 
 old_project_entries:
   - title: Update
-    url: false
+    url: falsepage
     desc: Added 1v1.lol and other games.
     highlight: NEW
 
   - title: Cookie
-    url: false
+    url: falsepage
     desc: An open source landing website with supporting pages and integrated blog
 
   - title: Moonwalk
-    url: false
+    url: falsepage
     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
   - title: Humangous
-    url: false
+    url: falsepage
     desc: The better people know you, the better they collaborate
 
 footer_entries:
@@ -61,7 +61,7 @@ footer_entries:
     url: https://www.bighummus69.github.io
 
   - title: discord
-    url: false
+    url: falsepage
 
   - title: github
     url: https://github.com/BigHummus69
