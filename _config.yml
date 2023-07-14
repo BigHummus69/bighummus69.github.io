@@ -1,5 +1,5 @@
 title: gimes
-author: Abhinav Saxena
+author: hummusman69
 url: https://www.bighummus69.github.io/jekyll # root address of the site
 description: > # description of the site (multiple lines allowed)
    A custom game site as I am tired of other sites not giving a thought about the status of their sites (although im going to only update it rarely myself). I hope you enjoy your experience on this site. Happy school gamin!
@@ -7,10 +7,6 @@ description: > # description of the site (multiple lines allowed)
 permalink: /:slug
 
 favicon: ".play/favicon.ico" # relative path to site's favicon
-
-twitter:
-    username: abhinav # update or delete this
-    card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
@@ -23,7 +19,7 @@ theme_config:
   show_description: true # show blog description
   show_navbar: true # show horizontal navbar
   show_footer: true # show footer links in home page,add in _data/home.yml
-  show_copyright: true # show copyright notice in footer
+  show_copyright: false # show copyright notice in footer
   # following keys are using to create home layout
   show_projects: true # show projects as cards, add in _data/home.yml
   show_blog: false # show blog posts added in _posts
