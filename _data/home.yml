@@ -34,10 +34,14 @@ project_entries:
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
 
-old_project_entries:
-  - title: Soopr
+  - title: Test
     url: false
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    desc: Will this work?
+
+old_project_entries:
+  - title: Update
+    url: false
+    desc: Added 1v1.lol and other games.
     highlight: NEW
 
   - title: Cookie
