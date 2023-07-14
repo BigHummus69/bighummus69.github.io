@@ -15,11 +15,11 @@ project_entries:
     highlight: POPULAR
 
   - title: /1/
-    url: /1/
+    url: 1game
     desc: A version of 2048.
 
   - title: /2048/
-    url: 2048
+    url: 2048game
     desc: The classic 2048 game.
     
   - title: Project 4
