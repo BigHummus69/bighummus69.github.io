@@ -6,7 +6,7 @@ description: > # description of the site (multiple lines allowed)
 
 permalink: /:slug
 
-favicon: ".play/favicon.png" # relative path to site's favicon
+favicon: "/play/favicon.png" # relative path to site's favicon
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
