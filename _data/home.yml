@@ -10,7 +10,7 @@ navbar_entries:
 
 project_entries:
   - title: 1v1
-    url: IvI
+    url: IvI.md
     desc: THe favorite all time broswer FPS!
 
   - title: Project 2
@@ -35,20 +35,20 @@ project_entries:
 
 old_project_entries:
   - title: Soopr
-    url: https://www.soopr.co
+    url: false
     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
     highlight: NEW
 
   - title: Cookie
-    url: https://github.com/abhinavs/cookie
+    url: false
     desc: An open source landing website with supporting pages and integrated blog
 
   - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
+    url: false
     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
   - title: Humangous
-    url: https://www.humangous.co
+    url: false
     desc: The better people know you, the better they collaborate
 
 footer_entries:
@@ -61,8 +61,8 @@ footer_entries:
   - title: github
     url: https://github.com/BigHummus69
 
-  - title: feed
-    url: feed.xml
+  - title: false
+    url: false
 
 misc_entries:
   - title: this is an example vertical list
