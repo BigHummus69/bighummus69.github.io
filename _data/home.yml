@@ -28,15 +28,22 @@ project_entries:
 
   - title: Bitlife
     url: actual/bitlife/index.html
-    desc: Live you best (or worst) life in Bitlife!
+    desc: Live your best (or worst) life in Bitlife!
     
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  - title: Slope
+    url: actual/slope/index.html
+    desc: The popular game of... slopes. Idk man I wasn't good.
+    highlight: POPULAR
 
-  - title: Test
-    url: falsepage
-    desc: Will this work?
+  - title: Dogeminer
+    url: actual/dogeminer/index.html
+    desc: Mine dogecoin to go to the MOON!
+    highlight: OWNER FAVORITE
+
+  - title: Ages of Conflict
+    url: actual/ages-of-conflict/index.html
+    desc: Make nations go to war in this nation sim!
+    highlight: OWNER FAVORITE
 
 old_project_entries:
   - title: Update
