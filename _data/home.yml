@@ -38,12 +38,12 @@ project_entries:
   - title: Dogeminer
     url: actual/dogeminer/index.html
     desc: Mine dogecoin to go to the MOON!
-    highlight: OWNER FAVORITE
+    highlight: OWNER-FAV
 
   - title: Ages of Conflict
     url: actual/ages-of-conflict/index.html
     desc: Make nations go to war in this nation sim!
-    highlight: OWNER FAVORITE
+    highlight: OWNER-FAV
 
 old_project_entries:
   - title: Update
