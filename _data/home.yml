@@ -48,20 +48,12 @@ project_entries:
 old_project_entries:
   - title: Update
     url: falsepage
-    desc: Added 1v1.lol and other games.
+    desc: Added Slope, Dogeminer, and Age of Conflicts
     highlight: NEW
-
-  - title: Cookie
+    
+  - title: Update
     url: falsepage
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: falsepage
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: falsepage
-    desc: The better people know you, the better they collaborate
+    desc: Added 1v1.lol and other games.
 
 footer_entries:
   - title: main website
