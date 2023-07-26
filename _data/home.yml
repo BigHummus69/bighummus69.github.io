@@ -45,6 +45,10 @@ project_entries:
     desc: Make nations go to war in this nation sim!
     highlight: FAV
 
+  - title: Retro Bowl
+    url: actual/retrobowl/index.html
+    desc: Control your own pro football team and win the Retro Bowl!
+
 old_project_entries:
   - title: Update
     url: falsepage
