@@ -49,6 +49,10 @@ project_entries:
     url: actual/retrobowl/index.html
     desc: Control your own pro football team and win the Retro Bowl!
 
+  - title: Geometry Dash
+    url: actual/geometrydash/index.html
+    desc: The popular game geometry dash, now with more lag and inside pain!
+    
 old_project_entries:
   - title: Unblocked YT
     url: falsepage
