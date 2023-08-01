@@ -30,7 +30,7 @@ theme_config:
     title_projects: Games
     title_misc_list: Other 
     title_blog: Blog
-    title_old_projects: Updates
+    title_old_projects: Bookmarklets
 
 soopr:
   publish_token: "pt_b92f744644ca348956a129bc07bd1ccf" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
