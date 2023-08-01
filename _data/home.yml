@@ -23,7 +23,7 @@ project_entries:
     desc: The classic 2048 game.
     
   - title: Basketball Stars
-    url: actual/basketball-stars/index.html
+    url: actual/baskets/index.html
     desc: One of the most BALLIN games here. (help me)
 
   - title: Bitlife
