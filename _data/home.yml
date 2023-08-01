@@ -77,7 +77,8 @@ footer_entries:
     url: falsepage
 
 misc_entries:
-  - title: COMING SOON 
+  - title: YT Download
+    url: bookmarklets/yt.html
     
 
  
