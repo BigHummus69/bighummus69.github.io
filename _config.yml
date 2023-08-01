@@ -28,9 +28,9 @@ theme_config:
   # options for "home" page
   home:
     title_projects: Games
-    title_misc_list: Apps 
+    title_misc_list: Bookmarklets
     title_blog: Blog
-    title_old_projects: Bookmarklets
+    title_old_projects: Apps
 
 soopr:
   publish_token: "pt_b92f744644ca348956a129bc07bd1ccf" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
