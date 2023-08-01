@@ -57,6 +57,11 @@ project_entries:
     url: actual/FNAW/fnaw.html
     desc: Run from erasers. This was a personal favorite for my friends.
     highlight: FAV
+
+  - title: Time Shooter
+    url: actual/timeshooter/index.html
+    desc: Off-brand SuperHot; ported it for one of my bois
+    highlight: FAV
     
 old_project_entries:
   - title: Unblocked YT
