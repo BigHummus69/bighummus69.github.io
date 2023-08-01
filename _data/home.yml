@@ -52,6 +52,11 @@ project_entries:
   - title: Geometry Dash
     url: actual/geometrydash/index.html
     desc: The popular game geometry dash, now with more lag and inside pain!
+
+  - title: FNAW
+    url: actual/FNAW/fnaw.html
+    desc: Run from erasers. This was a personal favorite for my friends.
+    highlight: FAV
     
 old_project_entries:
   - title: Unblocked YT
@@ -73,7 +78,7 @@ footer_entries:
 
 misc_entries:
   - title: COMING SOON 
-    desc: look up 
+    
 
  
 
