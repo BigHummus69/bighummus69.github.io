@@ -46,7 +46,7 @@ project_entries:
     highlight: FAV
 
   - title: Retro Bowl
-    url: actual/retrobowl/index.html
+    url: actual/oldbowl/index.html
     desc: Control your own pro football team and win the Retro Bowl!
 
   - title: Geometry Dash
