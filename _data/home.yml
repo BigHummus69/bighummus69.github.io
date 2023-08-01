@@ -50,14 +50,8 @@ project_entries:
     desc: Control your own pro football team and win the Retro Bowl!
 
 old_project_entries:
-  - title: Update
+  - title: idk what to put here man
     url: falsepage
-    desc: Added Slope, Dogeminer, and Age of Conflicts
-    highlight: NEW
-    
-  - title: Update
-    url: falsepage
-    desc: Added 1v1.lol and other games.
 
 footer_entries:
   - title: main website
