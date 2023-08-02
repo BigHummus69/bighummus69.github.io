@@ -62,11 +62,17 @@ project_entries:
     url: actual/timeshooter/index.html
     desc: Off-brand SuperHot; ported it for one of my bois
     highlight: FAV
-    
+
+
+  - title: Cookie Clicker
+  - url: https://bighummus69.github.io/dough/
+  - desc: Click cookies with Cookie Clicker (redirect to external page)
+
 old_project_entries:
   - title: Unblocked YT
     url: https://ytmous-2.sriramshanmuga1.repl.co/
     desc: because school security is bad
+
 
 footer_entries:
   - title: main website
