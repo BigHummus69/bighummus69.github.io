@@ -1,6 +1,7 @@
 ---
 layout: post
 title: About
+permalink: about.md
 ---
 
 ## About the creator
