@@ -63,7 +63,6 @@ project_entries:
     desc: Off-brand SuperHot; ported it for one of my bois
     highlight: FAV
 
-
   - title: Cookie Clicker
     url: actual/dough/index.html
     desc: Click cookies with Cookie Clicker 
@@ -93,6 +92,9 @@ misc_entries:
 
   - title: Auto CLicker
     url: books/autoclicker.html
+
+  - title: Inspect Element
+    url: books/inspection.html
     
 
  
