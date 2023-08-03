@@ -1,6 +1,6 @@
 navbar_entries:
   - title: about
-    url: about
+    url: about.md
 
   - title: IDK
     url: blog
