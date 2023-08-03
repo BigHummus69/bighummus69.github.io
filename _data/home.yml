@@ -2,8 +2,8 @@ navbar_entries:
   - title: About
     url: about
  
-  - title: IDK
-    url: blog
+  - title: download
+    url: play/download.html
 
   - title: main website
     url: https://bighummus69.github.io
