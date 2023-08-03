@@ -28,16 +28,16 @@ project_entries:
 
   - title: Bitlife
     url: actual/bitlife/index.html
-    desc: Live your best (or worst) life in Bitlife!
+    desc: Live a life because you don't ahve one.
     
   - title: Slope
     url: actual/slight-drop/index.html
-    desc: The popular game of... slopes. Idk man I wasn't good. e
+    desc: The popular game of... slopes. Idk man I wasn't good. 
     highlight: POPULAR
 
   - title: Dogeminer
     url: actual/dogeminer/index.html
-    desc: Mine dogecoin to go to the MOON!
+    desc: Mine dogecoin. What else doofus.
     highlight: FAV
 
   - title: Ages of Conflict
@@ -47,7 +47,7 @@ project_entries:
 
   - title: Retro Bowl
     url: actual/oldbowl/index.html
-    desc: Control your own pro football team and win the Retro Bowl!
+    desc: Control your own pro football team (god bless their souls)
 
   - title: Geometry Dash
     url: actual/geometrydash/index.html
