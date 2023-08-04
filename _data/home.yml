@@ -67,6 +67,10 @@ project_entries:
     url: actual/dough/index.html
     desc: Click cookies with Cookie Clicker 
 
+  - title: Run 3
+    url: actual/runpls3/index.html
+    desc: You run. That's it.
+
 old_project_entries:
   - title: Unblocked YT
     url: https://ytmous-2.sriramshanmuga1.repl.co/
