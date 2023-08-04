@@ -76,6 +76,13 @@ old_project_entries:
     url: https://ytmous-2.sriramshanmuga1.repl.co/
     desc: because school security is bad
 
+  - title: Browser
+    url: https://
+    desc: it might be a little laggy, but its all you got
+
+  - title: about:blank 
+    url: hoodon
+    desc: it ALSO might be a little laggy, but it cloaks any website you want (will not make it unblockable) (maybe check youtube)
 
 footer_entries:
   - title: main website
