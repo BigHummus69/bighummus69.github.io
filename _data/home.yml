@@ -3,7 +3,7 @@ navbar_entries:
     url: about
  
   - title: download
-    url: play/download.html
+    url: download
 
   - title: main website
     url: https://bighummus69.github.io
