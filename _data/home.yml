@@ -8,6 +8,8 @@ navbar_entries:
   - title: main website
     url: https://bighummus69.github.io
 
+  - title: updates
+    url: updates
 
 project_entries:
   - title: 1v1
