@@ -74,6 +74,10 @@ project_entries:
     url: actual/runpls3/runpls3/index.html
     desc: You run. That's it.
 
+  - title: Baldi's Basics
+    url: balding
+    desc: You run from a bald guy with a ruler, hey sounds like my dad-
+
 old_project_entries:
   - title: Unblocked YT
     url: https://ytmous-2.sriramshanmuga1.repl.co/
