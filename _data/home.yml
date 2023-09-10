@@ -78,6 +78,14 @@ project_entries:
     url: balding
     desc: You run from a bald guy with a ruler, hey sounds like my dad-
 
+  - title: Bloons Tower Defense
+    url: actual/bloonstd/index.html
+    desc: Bloons Tower Defense except old
+
+  - title: Bloons Tower Defense 2
+    url: actual/bloonstd2/index.html
+    desc: you'll never guess what comes before it
+
 old_project_entries:
   - title: Unblocked YT
     url: https://ytmous-2.sriramshanmuga1.repl.co/
