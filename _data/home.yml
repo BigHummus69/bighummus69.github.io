@@ -74,10 +74,6 @@ project_entries:
     url: actual/runpls3/runpls3/index.html
     desc: You run. That's it.
 
-  - title: Baldi's Basics
-    url: balding
-    desc: You run from a bald guy with a ruler, hey sounds like my dad-
-
   - title: Bloons Tower Defense
     url: actual/bloonstd/index.html
     desc: Bloons Tower Defense except old
