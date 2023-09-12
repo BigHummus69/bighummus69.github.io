@@ -8,6 +8,9 @@ navbar_entries:
   - title: main website
     url: https://bighummus69.github.io
 
+  - title: updates
+    url: updates
+
 project_entries:
   - title: 1v1
     url: IvI
@@ -71,6 +74,14 @@ project_entries:
     url: actual/runpls3/runpls3/index.html
     desc: You run. That's it.
 
+  - title: Bloons Tower Defense
+    url: actual/bloonstd/index.html
+    desc: Bloons Tower Defense except old
+
+  - title: Bloons Tower Defense 2
+    url: actual/bloonstd2/index.html
+    desc: you'll never guess what comes before it
+
 old_project_entries:
   - title: Unblocked YT
     url: https://ytmous-2.sriramshanmuga1.repl.co/
@@ -89,7 +100,7 @@ footer_entries:
     url: https://www.bighummus69.github.io
 
   - title: discord
-    url: https://discord.gg/ThPQeWC4xE
+    url: https://discord.gg/kd45pAcvhD
 
   - title: github
     url: https://github.com/BigHummus69
