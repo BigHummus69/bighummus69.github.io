@@ -82,6 +82,15 @@ project_entries:
     url: actual/bloonstd2/index.html
     desc: you'll never guess what comes before it
 
+  - title: Eaglercraft 1.5
+    url: eagle15
+    desc: block game 1.5 in your browser
+
+  - title: Eaglercraft 1.8
+    url: eagle18
+    desc: block game 1.8 in your browser (only supports servers, no singleplayer)
+
+    
 old_project_entries:
   - title: Unblocked YT
     url: https://ytmous-2.sriramshanmuga1.repl.co/
