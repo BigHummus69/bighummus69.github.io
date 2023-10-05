@@ -105,8 +105,6 @@ old_project_entries:
     desc: it ALSO might be a little laggy, but it cloaks any website you want (will not make it unblockable) (maybe check youtube)
 
 
-  - title: test
-    desc: this is a test
 footer_entries:
   - title: main website
     url: https://www.bighummus69.github.io
