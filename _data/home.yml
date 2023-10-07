@@ -5,8 +5,8 @@ navbar_entries:
   - title: download
     url: download
 
-  - title: main website
-    url: https://bighummus69.github.io
+  - title: old website
+    url: https://bighummus69.github.io/old-site
 
   - title: updates
     url: updates
