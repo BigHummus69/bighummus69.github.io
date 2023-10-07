@@ -115,8 +115,8 @@ footer_entries:
   - title: github
     url: https://github.com/BigHummus69
 
-  - title: false
-    url: falsepage
+  - title: copyright info
+    url: copyright
 
 misc_entries:
   - title: YT Download
