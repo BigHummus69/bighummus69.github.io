@@ -5,8 +5,8 @@ navbar_entries:
   - title: download
     url: download
 
-  - title: main website
-    url: https://bighummus69.github.io
+  - title: old website
+    url: https://bighummus69.github.io/old-site
 
   - title: updates
     url: updates
@@ -82,6 +82,15 @@ project_entries:
     url: actual/bloonstd2/index.html
     desc: you'll never guess what comes before it
 
+  - title: Eaglercraft 1.5
+    url: actual/e15/index.html
+    desc: block game 1.5 in your browser
+
+  - title: Eaglercraft 1.8
+    url: actual/e18/index.html
+    desc: block game 1.8 in your browser (only supports servers, no singleplayer)
+
+    
 old_project_entries:
   - title: Unblocked YT
     url: https://ytmous-2.sriramshanmuga1.repl.co/
@@ -95,9 +104,10 @@ old_project_entries:
     url: hoodon
     desc: it ALSO might be a little laggy, but it cloaks any website you want (will not make it unblockable) (maybe check youtube)
 
+
 footer_entries:
-  - title: main website
-    url: https://www.bighummus69.github.io
+  - title: old website
+    url: https://www.bighummus69.github.io/old-site
 
   - title: discord
     url: https://discord.gg/kd45pAcvhD
@@ -105,8 +115,8 @@ footer_entries:
   - title: github
     url: https://github.com/BigHummus69
 
-  - title: false
-    url: falsepage
+  - title: copyright info
+    url: copyright
 
 misc_entries:
   - title: YT Download
