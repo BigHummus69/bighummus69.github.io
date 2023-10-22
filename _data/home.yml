@@ -12,6 +12,11 @@ navbar_entries:
     url: updates
 
 project_entries:
+  - title: Vote for a game
+    url: https://forms.gle/bBiEEknwZVxPzw5x7
+    desc: Vote for a game
+  
+  
   - title: 1v1
     url: IvI
     desc: The favorite all time broswer FPS!
