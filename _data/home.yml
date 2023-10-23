@@ -95,6 +95,15 @@ project_entries:
     url: actual/e18/index.html
     desc: block game 1.8 in your browser (only supports servers, no singleplayer)
 
+  - title: Chrome Dino
+    url: actual/extinct/index.html
+    desc: The chrome offline game with dinos.
+    highlight: FAV
+
+  - title: Tanuki Sunset
+    url: actual/sunset/index.html
+    desc: Play as a raccon on a skateboard. Requested.
+
     
 old_project_entries:
   - title: Unblocked YT
