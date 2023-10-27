@@ -11,6 +11,7 @@ navbar_entries:
   - title: updates
     url: updates
 
+
 project_entries:
   - title: Vote for a game
     url: https://forms.gle/bBiEEknwZVxPzw5x7
@@ -104,6 +105,9 @@ project_entries:
     url: actual/sunset/index.html
     desc: Play as a raccon on a skateboard. Requested.
 
+  - title: OVO
+    url: 0v0
+    desc: cool parkour game 
     
 old_project_entries:
   - title: Unblocked YT
@@ -117,6 +121,10 @@ old_project_entries:
   - title: about:blank 
     url: hoodon
     desc: it ALSO might be a little laggy, but it cloaks any website you want (will not make it unblockable) (maybe check youtube)
+
+  - title: Make your own Unblocked Games Site!
+    url: howto
+    desc: Make your own game site with these instructions made by me.
 
 
 footer_entries:
