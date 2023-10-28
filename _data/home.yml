@@ -108,6 +108,10 @@ project_entries:
   - title: OVO
     url: 0v0
     desc: cool parkour game 
+
+  - title: FNAF 1
+    url: f1
+    desc: PLay as a nightguard in a pizzeria getting hunted down by robot furries.
     
 old_project_entries:
   - title: Unblocked YT
