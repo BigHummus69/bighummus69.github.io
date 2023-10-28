@@ -111,7 +111,11 @@ project_entries:
 
   - title: FNAF 1
     url: f1
-    desc: PLay as a nightguard in a pizzeria getting hunted down by robot furries.
+    desc: Play as a nightguard in a pizzeria getting hunted down by robot furries.
+
+  - title: FNAF 2
+    url: f2
+    desc: Play as a nightguard AGAIN in a different pizzeria this time. 
     
 old_project_entries:
   - title: Unblocked YT
