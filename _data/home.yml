@@ -116,6 +116,10 @@ project_entries:
   - title: FNAF 2
     url: f2
     desc: Play as a nightguard AGAIN in a different pizzeria this time. 
+
+  - title: Mario
+    url: oiram
+    desc: Play the retro version of Mario, now adapted for wide screens! Requested.
     
 old_project_entries:
   - title: Unblocked YT
