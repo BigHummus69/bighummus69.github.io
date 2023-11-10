@@ -11,6 +11,9 @@ navbar_entries:
   - title: updates
     url: updates
 
+  - title: new project
+    url: https://bighummus69.github.io/simplegimes
+
 
 project_entries:
   - title: Vote for a game
@@ -34,6 +37,10 @@ project_entries:
   - title: Basketball Stars
     url: actual/baskets/index.html
     desc: One of the most BALLIN games here. (help me)
+
+  - title: Basket Random
+    url: basketprob
+    desc: Play basketball except cartoon style.
 
   - title: Bitlife
     url: actual/bitlife/index.html
@@ -137,6 +144,10 @@ old_project_entries:
   - title: Make your own Unblocked Games Site!
     url: howto
     desc: Make your own game site with these instructions made by me.
+
+  - title: NEW GAME SITE
+    url: https://bighummus69.github.io/simplegimes
+    desc: A sample game site which is designed to be easy to deploy (IN PROGRESS)
 
 
 footer_entries:
