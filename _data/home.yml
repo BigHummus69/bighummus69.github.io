@@ -118,7 +118,7 @@ project_entries:
     url: actual/oldbowl/index.html
     desc: Control your own pro football team (god bless their souls)
 
- -  title: Slope
+  - title: Slope
     url: https://bighummus69.github.io/actual/slight-drop/index.html
     desc: The popular game of... slopes. You play as a ball rolling down a slope.
     highlight: POPULAR
