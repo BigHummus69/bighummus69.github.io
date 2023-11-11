@@ -76,7 +76,7 @@ project_entries:
     desc: Mine dogecoin. What else doofus.
     highlight: FAV
 
-   - title: Eaglercraft 1.5
+  - title: Eaglercraft 1.5
     url: actual/e15/index.html
     desc: block game 1.5 in your browser
 
