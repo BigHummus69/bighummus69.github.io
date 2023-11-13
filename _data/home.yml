@@ -11,6 +11,9 @@ navbar_entries:
   - title: updates
     url: updates
 
+  - title: new project
+    url: https://bighummus69.github.io/simplegimes
+
 
 project_entries:
   - title: Vote for a game
@@ -27,58 +30,23 @@ project_entries:
     url: actual/2048-multitask
     desc: A harder version of 2048, now with more tiles!
 
-  - title: /2048/
+  - title: 2048
     url: actual/2048/index.html
     desc: The classic 2048 game.
-    
-  - title: Basketball Stars
-    url: actual/baskets/index.html
-    desc: One of the most BALLIN games here. (help me)
 
-  - title: Bitlife
-    url: actual/bitlife/index.html
-    desc: Live a life because you don't have one.
-    
-  - title: Slope
-    url: actual/slight-drop/index.html
-    desc: The popular game of... slopes. Idk man I wasn't good. 
-    highlight: POPULAR
-
-  - title: Dogeminer
-    url: actual/dogeminer/index.html
-    desc: Mine dogecoin. What else doofus.
-    highlight: FAV
 
   - title: Ages of Conflict
     url: actual/ages-of-conflict/index.html
     desc: Make nations go to war in this nation sim!
     highlight: FAV
+    
+  - title: Basketball Stars
+    url: actual/baskets/index.html
+    desc: One of the most BALLIN games here. (help me)
 
-  - title: Retro Bowl
-    url: actual/oldbowl/index.html
-    desc: Control your own pro football team (god bless their souls)
-
-  - title: Geometry Dash
-    url: actual/geometrydash/index.html
-    desc: The popular game geometry dash, now with more lag and inside pain!
-
-  - title: FNAW
-    url: actual/FNAW/fnaw.html
-    desc: Run from erasers. This was a personal favorite for my friends.
-    highlight: FAV
-
-  - title: Time Shooter
-    url: actual/timeshooter/index.html
-    desc: Off-brand SuperHot; ported it for one of my bois
-    highlight: FAV
-
-  - title: Cookie Clicker
-    url: actual/dough/index.html
-    desc: Click cookies with Cookie Clicker 
-
-  - title: Run 3
-    url: actual/runpls3/runpls3/index.html
-    desc: You run. That's it.
+  - title: Basket Random
+    url: ranbas
+    desc: Play basketball except cartoon style.
 
   - title: Bloons Tower Defense
     url: actual/bloonstd/index.html
@@ -88,6 +56,26 @@ project_entries:
     url: actual/bloonstd2/index.html
     desc: you'll never guess what comes before it
 
+  - title: Bitlife
+    url: actual/bitlife/index.html
+    desc: Live a life because you don't have one.
+
+   
+
+  - title: Chrome Dino
+    url: actual/extinct/index.html
+    desc: The chrome offline game with dinos.
+    highlight: FAV
+
+  - title: Cookie Clicker
+    url: actual/dough/index.html
+    desc: Click cookies with Cookie Clicker 
+
+  - title: Dogeminer
+    url: actual/dogeminer/index.html
+    desc: Mine dogecoin. What else doofus.
+    highlight: FAV
+
   - title: Eaglercraft 1.5
     url: actual/e15/index.html
     desc: block game 1.5 in your browser
@@ -95,19 +83,6 @@ project_entries:
   - title: Eaglercraft 1.8
     url: actual/e18/index.html
     desc: block game 1.8 in your browser (only supports servers, no singleplayer)
-
-  - title: Chrome Dino
-    url: actual/extinct/index.html
-    desc: The chrome offline game with dinos.
-    highlight: FAV
-
-  - title: Tanuki Sunset
-    url: actual/sunset/index.html
-    desc: Play as a raccon on a skateboard. Requested.
-
-  - title: OVO
-    url: 0v0
-    desc: cool parkour game 
 
   - title: FNAF 1
     url: f1
@@ -117,10 +92,49 @@ project_entries:
     url: f2
     desc: Play as a nightguard AGAIN in a different pizzeria this time. 
 
+  - title: FNAW
+    url: actual/FNAW/fnaw.html
+    desc: Run from erasers. This was a personal favorite for my friends.
+    highlight: FAV
+
+  - title: Geometry Dash
+    url: actual/geometrydash/index.html
+    desc: The popular game geometry dash, now with more lag and inside pain!
+
   - title: Mario
     url: oiram
     desc: Play the retro version of Mario, now adapted for wide screens! Requested.
+
     
+  - title: OVO
+    url: 0v0
+    desc: cool parkour game 
+    
+  - title: Run 3
+    url: actual/runpls3/runpls3/index.html
+    desc: You run. That's it.
+
+  - title: Retro Bowl
+    url: actual/oldbowl/index.html
+    desc: Control your own pro football team (god bless their souls)
+
+  - title: Slope
+    url: https://bighummus69.github.io/actual/slight-drop/index.html
+    desc: The popular game of... slopes. You play as a ball rolling down a slope.
+    highlight: POPULAR
+
+
+  - title: Tanuki Sunset
+    url: actual/sunset/index.html
+    desc: Play as a raccon on a skateboard. Requested.
+
+
+  - title: Time Shooter
+    url: actual/timeshooter/index.html
+    desc: Off-brand SuperHot; ported it for one of my bois
+    highlight: FAV
+
+  
 old_project_entries:
   - title: Unblocked YT
     url: https://ytmous-2.sriramshanmuga1.repl.co/
@@ -137,6 +151,10 @@ old_project_entries:
   - title: Make your own Unblocked Games Site!
     url: howto
     desc: Make your own game site with these instructions made by me.
+
+  - title: NEW GAME SITE
+    url: https://bighummus69.github.io/simplegimes
+    desc: A sample game site which is designed to be easy to deploy (IN PROGRESS)
 
 
 footer_entries:
@@ -164,5 +182,3 @@ misc_entries:
     
 
  
-
-

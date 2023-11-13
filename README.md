@@ -30,7 +30,15 @@ Click Save.
 
 ### Deploy on local machine
 
-I have no idea how to deploy on a local machine, because the Jekyll theme is built specifically for Github Pages.
+I have no idea how to deploy on a local machine, because the Jekyll theme is built specifically for Github Pages. If you do find out, please DM me at...
+
+hummusman69 on discord
+
+or...
+
+hummusman69@proton.me
+
+
 
 
 
