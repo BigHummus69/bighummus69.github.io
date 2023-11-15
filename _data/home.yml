@@ -19,7 +19,10 @@ project_entries:
   - title: Vote for a game
     url: https://forms.gle/bBiEEknwZVxPzw5x7
     desc: Vote for a game
-  
+
+  - title: ProXy Sites
+    url: prx
+    desc: A list of proxy sites.
   
   - title: 1v1.lol 
     url: IvI
