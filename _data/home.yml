@@ -63,7 +63,8 @@ project_entries:
     url: actual/bitlife/index.html
     desc: Live a life because you don't have one.
 
-   
+  - title: Big Tower Tiny Square
+    url: tower
 
   - title: Chrome Dino
     url: actual/extinct/index.html
