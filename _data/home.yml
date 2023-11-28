@@ -65,6 +65,7 @@ project_entries:
 
   - title: Big Tower Tiny Square
     url: tower
+    desc: Play a a block trying not to fall through holes.
 
   - title: Chrome Dino
     url: actual/extinct/index.html
