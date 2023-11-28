@@ -106,6 +106,10 @@ project_entries:
     url: actual/geometrydash/index.html
     desc: The popular game geometry dash, now with more lag and inside pain!
 
+  - title: Madalin Stunt Cars 2
+    url: cars2
+    desc: Drive a stunt car really fast.
+
   - title: Mario
     url: oiram
     desc: Play the retro version of Mario, now adapted for wide screens! Requested.
