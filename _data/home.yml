@@ -12,7 +12,7 @@ navbar_entries:
     url: updates
 
   - title: new project
-    url: https://calculatorgames.github.io/simplegimes
+    url: https://bighummus69.github.io/simplegimes
 
 
 project_entries:
@@ -48,7 +48,7 @@ project_entries:
     desc: One of the most BALLIN games here. (help me)
 
   - title: Basket Random
-    url: https://calculatorgames.github.io/randombasket
+    url: https://bighummus69.github.io/randombasket
     desc: Play basketball except cartoon style.
 
   - title: Bloons Tower Defense
@@ -158,7 +158,7 @@ old_project_entries:
     desc: Make your own game site with these instructions made by me.
 
   - title: NEW GAME SITE
-    url: https://calculatorgames.github.io/simplegimes
+    url: https://bighummus69.github.io/simplegimes
     desc: A sample game site which is designed to be easy to deploy (IN PROGRESS)
 
 
