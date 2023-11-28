@@ -123,6 +123,10 @@ project_entries:
     url: actual/oldbowl/index.html
     desc: Control your own pro football team (god bless their souls)
 
+  - title: Rooftop Snipers 2
+    url: actual/roof/index.html
+    desc: Try and shoot your opponents off a roof, hence the name
+
   - title: Slope
     url: https://bighummus69.github.io/actual/slight-drop/index.html
     desc: The popular game of... slopes. You play as a ball rolling down a slope.
