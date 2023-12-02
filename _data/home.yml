@@ -114,6 +114,9 @@ project_entries:
     url: oiram
     desc: Play the retro version of Mario, now adapted for wide screens! Requested.
 
+  - title: Moto3XM
+    url: motors
+    desc: Drive a motorcycle around on a 2D track.  
     
   - title: OVO
     url: 0v0
