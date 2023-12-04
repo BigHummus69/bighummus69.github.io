@@ -121,6 +121,10 @@ project_entries:
   - title: OVO
     url: 0v0
     desc: cool parkour game 
+
+  - title: Paper Minecraft
+    url: paper
+    desc: Minecraft except 2D and on Scratch
     
   - title: Run 3
     url: actual/runpls3/runpls3/index.html
