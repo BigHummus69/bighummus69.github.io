@@ -103,13 +103,20 @@ project_entries:
     highlight: FAV
 
   - title: Geometry Dash
-    url: actual/geometrydash/index.html
+    url: dash
     desc: The popular game geometry dash, now with more lag and inside pain!
+
+  - title: Madalin Stunt Cars 2
+    url: cars2
+    desc: Drive a stunt car really fast.
 
   - title: Mario
     url: oiram
     desc: Play the retro version of Mario, now adapted for wide screens! Requested.
 
+  - title: Moto3XM
+    url: motors
+    desc: Drive a motorcycle around on a 2D track.  
     
   - title: OVO
     url: 0v0
