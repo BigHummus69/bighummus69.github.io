@@ -106,8 +106,8 @@ project_entries:
     desc: Try not to get jumpscared 3
     
   - title: FNAF 4
-    desc: Under maintenence
-  
+    url: f4
+    desc: Play as a kid in a bed getting hunted by furries.
   
   - title: FNAW
     url: actual/FNAW/fnaw.html

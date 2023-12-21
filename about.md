@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About
-permalink: about.md
+permalink: about
 ---
 
 ## About the creator
@@ -9,7 +9,7 @@ permalink: about.md
 Hello there.
 
 If you cared enough to visit this page, then you must be REALLY wanting to know who is behind this (are you a school a admin?)
-I went to several schools where at some point the goofy ah admins made such a impact on my mind that I decided to make MY OWN custom gime site.
+I went to several schools around the country and at some point the goofy ah admins made such a impact on my mind that I decided to make MY OWN custom gime site. 
 
 
 ## CONTACT DEETS
