@@ -101,7 +101,11 @@ project_entries:
     url: f2
     desc: Play as a nightguard AGAIN in a different pizzeria this time. 
 
-  - title: FNAF 3 + 4
+  - title: FNAF 3
+    url: f3
+    desc: Try not to get jumpscared 3
+    
+  - title: FNAF 4
     desc: Under maintenence
   
   
