@@ -59,6 +59,10 @@ project_entries:
     url: actual/bloonstd2/index.html
     desc: you'll never guess what comes before it
 
+  - title: Bloons Tower Defense 3
+    url: tdb3
+    desc: BTD except harder
+
   - title: Bitlife
     url: actual/bitlife/index.html
     desc: Live a life because you don't have one.
