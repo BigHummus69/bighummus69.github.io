@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta name="description" content="Play Minecraft 1.8.8 in your browser! This is EaglercraftX, created by LAX1DUDE and ayunami2000" />
+		<meta name="keywords" content="eaglercraft, eaglercraftx, minecraft, 1.8, 1.8.8" />
+		<title>EaglercraftX 1.8.8 | Ludos</title>
+		<meta property="og:locale" content="en-US" />
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content="EaglercraftX 1.8.8" />
+		<meta property="og:description" content="Play Minecraft 1.8.8 in your browser! This is EaglercraftX, created by LAX1DUDE and ayunami2000" />
+		<meta property="og:image" content="favicon.png" />
+		<link type="image/png" rel="shortcut icon" href="favicon.png" />
+		<script type="text/javascript" src="classes.js"></script>
+		<script type="text/javascript" src="fix-webm-duration.js"></script>
+		<script type="text/javascript">
+			"use strict";
+			window.addEventListener("load", () => {
+				if(document.location.href.startsWith("file:")) {
+					alert("HTTP please, do not open this file locally, run a local HTTP server and load it via HTTP");
+				}else {
+					const relayId = Math.floor(Math.random() * 3);
+					window.eaglercraftXOpts = {
+						container: "game_frame",
+						assetsURI: "assets.epk",
+						localesURI: "lang/",
+						servers: [
+							{
+								addr: "wss://mc.theludos.com/",
+								name: "Myth's EagMP"
+							},
+							{
+								addr: "wss://proxy.theludos.com/",
+								name: "Myth's EaglerProxy"
+							}
+						],
+						"relays": [
+	                        {
+                                "addr": "wss://relay.theludos.com/",
+                                "comment": "Myth's EaglerRelay",
+								"primary": true
+                            },
+                            {
+                                "addr": "wss://relay.deev.is/",
+                                "comment": "LAX1DUDE's Shared World Relay #1",
+								"primary": false
+                            },
+                            {
+                                "addr": "wss://relay.lax1dude.net/",
+                                "comment": "LAX1DUDE's Shared World Relay #2",
+								"primary": false
+                            },
+                            {
+                                "addr": "wss://relay.shhnowisnottheti.me/",
+                                "comment": "ayunami's Public Relay",
+								"primary": false
+                            }
+                        ]
+					};
+					
+					var q = window.location.search;
+					if(typeof q === "string" && q.startsWith("?")) {
+						q = new URLSearchParams(q);
+						var s = q.get("server");
+						if(s) window.eaglercraftXOpts.joinServer = s;
+					}
+					
+					main();
+				}
+			});
+		</script>
+	</head>
+	<body style="margin:0px;width:100vw;height:100vh;overflow:hidden;" id="game_frame">
+	</body>
+</html>
