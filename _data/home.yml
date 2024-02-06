@@ -90,8 +90,8 @@ project_entries:
     desc: block game 1.5 in your browser
 
   - title: Eaglercraft 1.8
-    url: actual/e18/index.html
-    desc: block game 1.8 in your browser (only supports servers, no singleplayer)
+    url: e18
+    desc: block game 1.8 in your browser (u20 supports singleplayer now :))
     
   - title: Fireboy and Water Girl Forest Temple
     url: fireandwater
