@@ -122,6 +122,10 @@ project_entries:
     url: dash
     desc: The popular game geometry dash, now with more lag and inside pain!
 
+  - title: Getaway Shootout
+    url: https://bighummus69.github.io/getaway/
+    desc: Get to the chopper, train, or whatever else fast I guess :)
+
   - title: Madalin Stunt Cars 2
     url: cars2
     desc: Drive a stunt car really fast.
