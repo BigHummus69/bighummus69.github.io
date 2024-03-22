@@ -168,6 +168,10 @@ project_entries:
     url: actual/sunset/index.html
     desc: Play as a raccon on a skateboard. Requested.
 
+  - title: Tiny Fishing
+    url: https://bighummus69.github.io/tinyfish/
+    desc: Fish for money and get... gold fish?
+
 
   - title: Time Shooter
     url: actual/timeshooter/index.html
