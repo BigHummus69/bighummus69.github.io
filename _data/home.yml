@@ -89,6 +89,10 @@ project_entries:
     url: https://bighummus69.github.io/drifthunt/
     desc: drift in a cool race track (will be on the loading screen for at least 20~ seconds)
 
+  - title: Driftmad
+    url: https://bighummus69.github.io/immad
+    desc: Drive and hope to not get crumbled.
+
   - title: Eaglercraft 1.5
     url: actual/e15/index.html
     desc: block game 1.5 in your browser
