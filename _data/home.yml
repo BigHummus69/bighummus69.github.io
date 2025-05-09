@@ -85,6 +85,10 @@ project_entries:
     desc: Mine dogecoin. What else doofus.
     highlight: FAV
 
+  - title: Drifthunter
+    url: https://bighummus69.github.io/drifthunt/
+    desc: drift in a cool race track (will be on the loading screen for at least 20~ seconds)
+
   - title: Eaglercraft 1.5
     url: actual/e15/index.html
     desc: block game 1.5 in your browser
