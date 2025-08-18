@@ -77,8 +77,8 @@ project_entries:
     highlight: FAV
 
   - title: Cookie Clicker
-    url: actual/dough/index.html
-    desc: Click cookies with Cookie Clicker 
+    url: https://bighummus69.github.io/clickcookies/
+    desc: Click cookies with Cookie Clicker (fixed now)
 
   - title: Dogeminer
     url: actual/dogeminer/index.html
