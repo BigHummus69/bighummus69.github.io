@@ -42,6 +42,9 @@ project_entries:
     url: actual/ages-of-conflict/index.html
     desc: Make nations go to war in this nation sim!
     highlight: FAV
+
+  - title: Among Us
+    url: https://bighummus69.github.io/impostersyndrome
     
   - title: Basketball Stars
     url: actual/baskets/index.html
